@@ -1,11 +1,2 @@
-# Personal Portfolio
-> https://eddiehiram.github.io/Eduardo-Ceballos-Website/
-  
-## Sections 
-> About\
-> Education\
-> Experience\
-> Awards\
-> Skills\
-> Resume\
-> Contact\
+# Eduardo-Ceballos-Website
+This is a repository of a personal website by Eduardo Ceballos
